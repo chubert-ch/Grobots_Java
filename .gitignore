@@ -1,0 +1,14 @@
+# Target folders
+target
+
+# Gradle working files
+.gradle
+
+# IDEs
+.classpath
+.idea
+*.iml
+.flattened-pom.xml
+.project
+.settings
+
